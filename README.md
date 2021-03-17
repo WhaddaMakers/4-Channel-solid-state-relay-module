@@ -1,6 +1,6 @@
-# WPM463 2 channel Solid State Relay module
+# WPM464 4 channel Solid State Relay module
 
-This example will repeatedly turn both SSR channels on and off.
+This example will repeatedly turn all 4 SSR channels on and off.
 
 ## Library dependencies
 * None
@@ -9,4 +9,4 @@ This example will repeatedly turn both SSR channels on and off.
 ![](./wiring_diagram.png)
 
 ## Additional information
-  For more information about the Whadda WPM463 2 channel Solid State Relay module, check the manual available at [whadda.com](https://whadda.com)
+  For more information about the Whadda WPM464 4 channel Solid State Relay module, check the manual available at [whadda.com](https://whadda.com)
